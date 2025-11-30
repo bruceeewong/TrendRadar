@@ -1,113 +1,135 @@
-胖东来
-于东来
+比特币
+Bitcoin
+BTC
 
-DeepSeek
-梁文锋
+以太坊
+Ethereum
+ETH
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+加密货币
+Crypto
+Cryptocurrency
 
-比亚迪
-王传福
+区块链
+Blockchain
 
-大疆
-DJI
+Web3
 
-宇树
-王兴兴
+数字货币
+Digital Currency
 
-智元
-灵犀
-稚晖君
-彭志辉
+币圈
 
-黑神话
-冯骥
+交易所
+Exchange
+Binance
+Coinbase
+OKX
 
-影之刃零
-梁其伟
+NFT
 
-哪吒
-饺子
-杨宇
-!车
-!餐
+DeFi
 
-三体
-流浪地球
-刘慈欣
-郭帆
+稳定币
+Stablecoin
+USDT
+USDC
 
-申奥
+矿机
+挖矿
+Mining
 
-京东
-刘强东
+钱包
+Wallet
 
-字节
-bytedance
-张一鸣
+链上
+On-chain
 
-特斯拉
-马斯克
+公链
 
-微软
-Microsoft
+合约
+Smart Contract
 
-英伟达
-NVIDIA
-黄仁勋
+# === 5G/6G/低轨卫星 ===
 
-AMD
+5G
+6G
 
-谷歌
-google
-gemini
-deepmind
+低轨卫星
+LEO
+星链
+Starlink
+SpaceX
 
-chatgpt
-openai
-sora
+卫星互联网
+卫星通信
+Satellite
 
-claude
+千帆星座
+G60星链
+中国星网
+鸿鹄卫星
+银河航天
+
+轨道
+频谱
+Ka波段
+Ku波段
+
+通信卫星
+导航卫星
+遥感卫星
+北斗
+
+# === Machine Learning / AI ===
+
+机器学习
+Machine Learning
+深度学习
+Deep Learning
+
+神经网络
+Neural Network
+Transformer
+大模型
+LLM
+
+GPT
+ChatGPT
+OpenAI
+Claude
 Anthropic
+Gemini
+DeepSeek
+Llama
+Mistral
 
-iphone
-ipad
-mac
-ios
+NVIDIA
+英伟达
+GPU
+算力
+芯片
 
-ai
-!gai
-人工智能
+AGI
+通用人工智能
+
+计算机视觉
+Computer Vision
+自然语言处理
+NLP
+
+训练
+推理
+微调
+Fine-tuning
+RAG
+
+Diffusion
+Stable Diffusion
+Midjourney
+DALL-E
+Sora
 
 自动驾驶
-
 机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+具身智能
